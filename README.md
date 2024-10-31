@@ -5,9 +5,24 @@ This project is a simple car sales management system written in C. It allows use
 
 ## Features
 - Vehicle inventory management
+  - Add, update, and remove vehicles
+  - Track vehicle details (make, model, year, price)
+  - Monitor stock levels
+
 - Sales record tracking
+  - Process new sales
+  - Generate invoices
+  - Track sales performance
+
 - Customer information storage
+  - Manage customer profiles
+  - Track purchase history
+  - Handle enquiries
+
 - Basic reporting functionality
+  - Sales reports
+  - Inventory status
+  - Revenue summaries
 
 ## Prerequisites
 To compile and run this programme, you will need:
@@ -30,4 +45,4 @@ To compile and run this programme, you will need:
    ```
 
 ## Usage
-Run the compiled programme: 
+Run the compiled programme:
